@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>airport</groupId>
-    <artifactId>2E_BARBADILLO_MIDTERM</artifactId>
+    <artifactId>luggage-claim-registry</artifactId>
     <version>1.0</version>
 
     <properties>
